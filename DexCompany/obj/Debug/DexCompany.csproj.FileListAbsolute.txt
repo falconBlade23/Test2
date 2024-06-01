@@ -1,0 +1,6 @@
+C:\Users\fusku\source\repos\Models\DexCompany\bin\Debug\DexCompany.dll
+C:\Users\fusku\source\repos\Models\DexCompany\bin\Debug\DexCompany.pdb
+C:\Users\fusku\source\repos\Models\DexCompany\obj\Debug\DexCompany.csproj.AssemblyReference.cache
+C:\Users\fusku\source\repos\Models\DexCompany\obj\Debug\DexCompany.csproj.CoreCompileInputs.cache
+C:\Users\fusku\source\repos\Models\DexCompany\obj\Debug\DexCompany.dll
+C:\Users\fusku\source\repos\Models\DexCompany\obj\Debug\DexCompany.pdb
